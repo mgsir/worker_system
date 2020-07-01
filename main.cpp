@@ -38,6 +38,7 @@ int main()
           break;
         case 6:
 
+
           break;
         case 7:
           manager.clearFile_();
